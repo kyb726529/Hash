@@ -74,5 +74,6 @@ int main(void) {
 		e.key = data[i];
 		hash_chain_search(e, hash_table);
 	}
+	printf("git");
 	return 0;
 }
